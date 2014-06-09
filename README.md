@@ -1,7 +1,7 @@
 netNeutralityLoading.js
 ====================
 
-A jQuery plugin to show a loading bar overlay alerting visitors of the importance of net neutrality.
+A simple jQuery plugin to show a loading bar overlay alerting visitors of the importance of net neutrality.
 
 ### Demo
 http://9o.github.io/netNeutralityLoading.js/
@@ -12,6 +12,8 @@ Add this to the header of your website after adding jQuery
 ```
 <script src="http://9o.github.io/netNeutralityLoading.js/assets/Net-Neutrality-Loading.js" type="text/javascript"></script>
 ```
+### TODO
+1. Make overlay responsive.
 
 ## License
 
