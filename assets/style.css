@@ -1,0 +1,74 @@
+.jqmWindow {
+    display: none;
+    
+    position: fixed;
+    top: 17%;
+    left: 50%;
+    
+    margin-left: -475px;
+    width: 950px;
+    
+    color: #333;
+    padding: 12px;
+    text-align: center;
+}
+
+#header-nnl {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: #fff;
+    font-size: 1.6em;
+    display:inline-block;
+    margin-bottom: 30px;
+}
+
+#sub-header-nnl {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: #fff;
+    font-size: 1.125em;
+    display:inline-block;
+    margin-bottom: 30px;
+}
+
+#action-nnl {
+    display:inline-block;
+    margin-bottom: 30px;
+    color: #5BB75B;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+#continue-nnl {
+    background-color: #5BB75B;
+    color: #fff;
+    width: 150px;
+    padding: 15px 12px;
+    text-decoration: none;
+    border-radius: 2px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+#progress-nnl {
+    background-color: #fff;
+    width: 477px;
+    height: 44px;
+    padding: 4.5px;
+    border-radius: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+#bar-nnl {
+    background-color: #CF3C4E;
+    width: 60%;
+    height: 44px;
+    border-radius: 2px;
+}
+
+.jqmOverlay { background-color: #000; }
